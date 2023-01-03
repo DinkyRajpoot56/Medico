@@ -1,5 +1,6 @@
 #MEDICO
 
+
 The project entitled "Medico" is a Pharmacy Management System this is developed for established Medical store in the city. 
 
 To help them manage all operations of the medical store. It will have the entire basic module to manage the medical store operations. 
